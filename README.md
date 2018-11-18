@@ -1,6 +1,6 @@
 run igp.exe 
 
-![Initialization interface](minCad.png)
+![Initialization interface](miniCad.png)
 
 select one figure and draw
 
