@@ -1,10 +1,10 @@
 run igp.exe 
 
-![Initialization interface][minCad.png]
+![Initialization interface](minCad.png)
 
 select one figure and draw
 
-![Let's do it][draw.png]
+![Let's do it](draw.png)
 
 If you want to delete a figure, first press "delete" on keyboard and then select the figure, then you will successfully delete the figure
 
